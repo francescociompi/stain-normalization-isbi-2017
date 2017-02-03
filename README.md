@@ -6,9 +6,8 @@ Stain normalization parameters used in the paper:
 
 
 # Installation
-```
-download the input images from this link: https://zenodo.org/record/53169/files/Kather_texture_2016_larger_images_10.zip and unzip it
-```
+Download the input images from this link: https://zenodo.org/record/53169/files/Kather_texture_2016_larger_images_10.zip and unzip it.
+Adapt the path in apply_stain_normalization.py to point to the folder that contains the input images.
 
 # Code example
 ```
