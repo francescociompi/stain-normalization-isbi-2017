@@ -7,12 +7,12 @@ Stain normalization parameters used in the paper:
 
 # Installation
 ```
-# your code here
+download the input images from this link: https://zenodo.org/record/53169/files/Kather_texture_2016_larger_images_10.zip and unzip it
 ```
 
 # Code example
 ```
-# your code here
+python apply_stain_normalization.py
 ```
 
 
