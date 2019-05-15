@@ -1,5 +1,5 @@
-# Stain Normalization - ISBI 2017
-Stain normalization parameters used in the paper:
+# The importantce of stain normalization (ISBI 2017 conference paper)
+This repository contains stain normalization parameters and code used in the paper:
 
 *F. Ciompi, O. Gessinnk, B. E. Bejnordi, G. Silva de Souza, A. Baidoshvili, G. Litjens, B. van Ginneken, I. Nagtegaal, J. van der Laak*, 
 **The importance of stain normalization in colorectal tissue classification with convolutional networks**, IEEE International Symposium in Biomedical Imaging, 2017.
