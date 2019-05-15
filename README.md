@@ -14,4 +14,7 @@ Adapt the path in apply_stain_normalization.py to point to the folder that conta
 python apply_stain_normalization.py
 ```
 
+# Code to compute Look-up tables
+The code that was used to compute the look-up table files used in this project can be found at this link: https://github.com/computationalpathologygroup/WSICS
+
 
